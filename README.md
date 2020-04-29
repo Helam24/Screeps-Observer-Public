@@ -1,9 +1,11 @@
 # Screeps-Observer-Public
-Screeps Observer is an unofficial client for Screeps for iOS.
+Screeps Observer is an unofficial client for Screeps for iOS. (No Android version planned at the moment)
 
 The main repo is not open source at this time but issues with the app can be reported here.
 
 Want to help test and give feedback? Join the beta through TestFlight: https://testflight.apple.com/join/u4GlOWaL
+
+Feel free to create issues here or discuss in the Screeps slack in the #client-dev channel or dm me @Helam
 
 Current features (list may not be complete):
 - Room/map viewing:
